@@ -1,5 +1,5 @@
 # Datapacks:
-### Kill Feed
+### [Kill Feed](https://minecraft.curseforge.com/projects/killfeed)
 A minecraft datapack that makes it so all mobs have death messages when killed by players.
 ### Portals
 A minecraft datapack that announce portal uses
