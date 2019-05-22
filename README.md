@@ -1,11 +1,11 @@
 # Datapacks:
-##Kill Feed
+## Kill Feed
 A minecraft datapack that makes it so all mobs have death messages when killed by players.
-##Portals
+## Portals
 A minecraft datapack that announce portal uses
-##Totem
+## Totem
 A minecraft datapack that announce totem uses
-##Resurrection
+## Resurrection
 A minecraft datapack that ads crafting recipes for spawn eggs.
-##Healthy
+## Healthy
 A minecraft datapack that announce how much a damage a player took, or how much health a player restored.
