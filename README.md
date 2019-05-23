@@ -9,3 +9,5 @@ A minecraft datapack that announce totem uses
 A minecraft datapack that ads crafting recipes for spawn eggs.
 ### [Health Info](https://minecraft.curseforge.com/projects/healthinfo)
 A minecraft datapack that announce how much a damage a player took, or how much health a player restored.
+### [AFM Detector]()
+announces when players are "away from minecraft"(does not move in 8min), and when they come back.
